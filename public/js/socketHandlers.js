@@ -24,7 +24,6 @@ $(document).ready(function(){
       $("#meshee-logo").fadeIn(1000);
       $("#chat").fadeIn(1000);
       $(".user-column").fadeIn(1000);
-      // $("#nodes-tile").text(userTitle);
       $("#mesh-users").fadeIn(1200);
       $("#msg").focus();
       ready = true;
