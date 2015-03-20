@@ -35,8 +35,8 @@ Other people cannot access the chat room unless they have got the key.
 
 ### Two types of security
 
-1. A communication channel that the server don't allow outsider to see.
-2. A communication channel that the server itself cannot see.
+1. A communication channel that the server don't allow outsider to see. CJDNS Network built in encryption.
+2. A communication channel that the server itself cannot see. [AES](http://en.wikipedia.org/wiki/Advanced_Encryption_Standard) Encryption on the client level. 
 
 *Resources*
 * [Private Socket room]
