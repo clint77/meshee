@@ -1,5 +1,8 @@
 # mesheeChat
 
+Our final project for [Makers Academy](http://www.makersacademy.com/)
+- A chat application using CJDNS as an Ad-Hoc Network connecting devices via WiFi and AES for additinal client side encryption
+
 ## Cryptography
 
 ### Motivation
